@@ -92,6 +92,7 @@ print("--------------------------------------------------")
 print("Gracias por la información. Esperamos que disfrutes con Mi Red")
 print()
 
+
 #Finalmente, solicitamos un mensaje de prueba que sirva para publicar un estado del usuario.
 mensaje = input("Ahora vamos a publicar tu primer mensaje. ¿Qué piensas hoy? ")
 print()
